@@ -176,8 +176,6 @@ id  fid<br>
 
 
 
-
-
 <h3 id="11">字节提前批第二轮</h3> 
 ### 7月23<br>
 ### 字节提前批第二轮（视频面）<br>
@@ -187,7 +185,7 @@ id  fid<br>
 3	项目中的注册<br>
 4	微信小程序扫码授权有详细了解吗<br>
 5	项目中用到redis其他结构吗<br>
-5	讲JVM的gc<br>
-5	了解什么数据结构吗，来，写算法<br>
-
+6	讲JVM的gc<br>
+7	了解什么数据结构吗，来，写算法<br>
+![Image](https://github.com/lazy-apple/interview_LaZY/tree/master/images/字节二面算法.png)
 
