@@ -187,5 +187,7 @@ id  fid<br>
 5	项目中用到redis其他结构吗<br>
 6	讲JVM的gc<br>
 7	了解什么数据结构吗，来，写算法<br>
+
+
 ![Image](https://github.com/lazy-apple/interview_LaZY/blob/master/images/字节2面算法.png)
 
