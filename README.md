@@ -174,6 +174,25 @@ id  fid<br>
 13	查询每个年级每个科目前三名<br>
 14	tcp三次握手、四次挥手<br>
 
+<h3 id="9">松果出行笔试</h3> 
+### 7月22日<br>
+### 松果出行（笔试）<br>
+### 时间：1小时<br>
+
+![Image](https://github.com/lazy-apple/interview_LaZY/blob/master/images/松果1.jpg)
+
+![Image](https://github.com/lazy-apple/interview_LaZY/blob/master/images/松果2.jpg)
+
+
+<h3 id="10">巨杉数据库笔试</h3> 
+### 7月22日<br>
+### 巨杉数据库（笔试）<br>
+### 时间：1小时<br>
+
+![Image](https://github.com/lazy-apple/interview_LaZY/blob/master/images/巨杉1.jpg)
+
+![Image](https://github.com/lazy-apple/interview_LaZY/blob/master/images/巨杉2.jpg)
+
 
 
 <h3 id="11">字节提前批第二轮</h3> 
